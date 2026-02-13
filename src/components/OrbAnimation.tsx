@@ -121,11 +121,11 @@ export default function OrbAnimation() {
   const ellipses = Array.from({ length: ELLIPSE_COUNT });
 
   return (
-    <div ref={containerRef} className="w-full max-w-[800px] mx-auto">
+    <div ref={containerRef} className="w-full max-w-[1100px] mx-auto">
       <svg
         id="mainSVG"
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 800 600"
+        viewBox="150 120 500 360"
         className="w-full h-auto"
         style={{ visibility: "hidden" }}
       >
@@ -153,8 +153,8 @@ export default function OrbAnimation() {
             className="ell"
             cx="400"
             cy="300"
-            rx="80"
-            ry="80"
+            rx="110"
+            ry="110"
             fill="none"
           />
         ))}
