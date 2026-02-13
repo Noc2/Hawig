@@ -12,7 +12,7 @@ export default function Hero() {
           <span className="text-gradient">VENTURES</span>
         </h1>
         <p className="body-large text-white/60 mt-6 max-w-xl mx-auto">
-          Investing in the decentralized future
+          The Intersection of AI and Web3
         </p>
       </div>
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2">

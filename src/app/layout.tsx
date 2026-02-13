@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Hawig Ventures | Web3 Investment & Contribution",
   description:
-    "Hawig Ventures invests in and contributes to web3 projects building the decentralized future.",
+    "Hawig Ventures invests in and contributes to Web3 projects building the decentralized future.",
   openGraph: {
     title: "Hawig Ventures",
     description: "Investing in the decentralized future.",

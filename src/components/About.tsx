@@ -16,7 +16,7 @@ export default function About() {
         <FadeIn delay={0.15}>
           <p className="body-large text-white/70 mt-10 max-w-3xl">
             Hawig Ventures is a personal venture company that invests in and
-            actively contributes to web3 projects. We believe the decentralized
+            actively contributes to Web3 projects. We believe the decentralized
             web represents a fundamental shift in how we build, own, and interact
             with technology.
           </p>
