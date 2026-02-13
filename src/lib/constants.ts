@@ -15,30 +15,30 @@ export const ORB_COLORS = [
 export const THESIS_ITEMS = [
   {
     number: "01",
-    title: "Infrastructure & Protocols",
+    title: "AI-Native Web3",
     description:
-      "Backing the foundational layers that power the decentralized web \u2014 from consensus mechanisms to cross-chain interoperability.",
+      "Small, focused teams augmented by AI can build decentralized applications that compete with well-funded, centralized incumbents.",
     color: COLORS.blue,
   },
   {
     number: "02",
-    title: "Decentralized Governance",
+    title: "Decentralized from Day One",
     description:
-      "Supporting DAOs and governance frameworks that enable transparent, community-driven decision making at scale.",
+      "No large funding rounds. No corporate control over tokens. Web3 enables projects to launch permissionless and resilient from inception.",
     color: COLORS.green,
   },
   {
     number: "03",
     title: "Open Source Public Goods",
     description:
-      "Contributing to open-source tools, libraries, and protocols that benefit the entire ecosystem.",
+      "Investing in open-source tools, protocols, and infrastructure that create value for the entire ecosystem \u2014 not just shareholders.",
     color: COLORS.pink,
   },
   {
     number: "04",
-    title: "AI \u00d7 Crypto",
+    title: "Removing Barriers to Entry",
     description:
-      "Exploring the convergence of artificial intelligence and blockchain \u2014 decentralized compute, verifiable inference, and autonomous agents.",
+      "AI eliminates the capital and talent constraints of building. Web3 eliminates the regulatory and incumbency advantages of launching. Together, they unlock a new paradigm.",
     color: COLORS.yellow,
   },
 ];

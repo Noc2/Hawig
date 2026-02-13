@@ -125,7 +125,7 @@ export default function OrbAnimation() {
       <svg
         id="mainSVG"
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="150 120 500 360"
+        viewBox="150 140 500 360"
         className="w-full h-auto"
         style={{ visibility: "hidden" }}
       >
