@@ -9,41 +9,24 @@ export default function About() {
             01
           </span>
           <h2 className="heading-section">
-            Web3 is Dead,{" "}
-            <span className="text-gradient">Long Live Web3</span>
+            Building at the{" "}
+            <span className="text-gradient">Edge</span> of Web3
           </h2>
         </FadeIn>
         <FadeIn delay={0.15}>
           <p className="body-large text-white/70 mt-10 max-w-3xl">
-            The current landscape presents a paradox. Token valuations have
-            declined, Web3 social platforms have struggled to gain traction,
-            and many emerging projects trend toward centralization &mdash;
-            adopting the very structures this technology was designed to replace.
+            Hawig Ventures is a personal venture company that invests in and
+            actively contributes to Web3 projects. We believe the decentralized
+            web and AI represents a fundamental shift in how we build, own, and interact
+            with technology.
           </p>
         </FadeIn>
-        <FadeIn delay={0.25}>
+        <FadeIn delay={0.3}>
           <p className="body-large text-white/70 mt-6 max-w-3xl">
-            Yet the underlying thesis has never been stronger. AI is
-            eliminating the traditional barriers of capital and engineering
-            capacity. What remains are regulatory friction and incumbency
-            advantages &mdash; precisely the barriers that decentralized
-            architecture is built to overcome.
-          </p>
-        </FadeIn>
-        <FadeIn delay={0.35}>
-          <p className="body-large text-white/70 mt-6 max-w-3xl">
-            Web3 enables the creation of truly decentralized projects from
-            inception &mdash; without large funding rounds or corporate
-            governance over tokens. A small group of dedicated contributors,
-            augmented by AI, can now build applications that rival those of
-            well-resourced incumbents.
-          </p>
-        </FadeIn>
-        <FadeIn delay={0.45}>
-          <p className="body-large text-white/70 mt-6 max-w-3xl">
-            This is why we remain convicted. Hawig Ventures invests in and
-            actively contributes to projects at this intersection &mdash;
-            hands-on, long-term, and open source first.
+            We take a hands-on approach &mdash; not just providing capital, but
+            contributing code, governance participation, and strategic guidance.
+            Our focus is on long-term alignment with teams and communities
+            building open, resilient infrastructure.
           </p>
         </FadeIn>
       </div>
