@@ -10,7 +10,7 @@ export default function Thesis() {
             02
           </span>
           <h2 className="heading-section">
-            Contribution{" "}
+            Our{" "}
             <span className="text-gradient">Thesis</span>
           </h2>
         </FadeIn>

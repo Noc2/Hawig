@@ -44,6 +44,6 @@ export const THESIS_ITEMS = [
 ];
 
 export const SOCIAL_LINKS = {
-  twitter: "https://x.com/hawig",
-  github: "https://github.com/hawig",
+  twitter: "https://x.com/davidhawig",
+  github: "https://github.com/Noc2",
 };
