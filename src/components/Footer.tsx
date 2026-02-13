@@ -26,6 +26,24 @@ export default function Footer() {
           </a>
         </div>
       </div>
+
+      <div className="max-w-5xl mx-auto mt-10 text-center text-white/30 text-xs leading-relaxed space-y-2">
+        <p>
+          Hawig Ventures UG &middot; Herzogin-Juliana-Stra&szlig;e 7, 55469
+          Simmern, Germany &middot;{" "}
+          <a
+            href="mailto:info@hawig.xyz"
+            className="hover:text-white/50 transition-colors"
+          >
+            info@hawig.xyz
+          </a>
+        </p>
+        <p>
+          The content on this website is for informational purposes only and
+          does not constitute investment advice, a recommendation, or a
+          solicitation to buy or sell any assets.
+        </p>
+      </div>
     </footer>
   );
 }
