@@ -4,7 +4,7 @@ import OrbAnimation from "./OrbAnimation";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col items-center justify-center px-6 relative">
+    <section className="min-h-screen flex flex-col items-center justify-center px-6 relative -mt-16 md:-mt-24">
       <OrbAnimation />
       <div className="text-center -mt-8 md:-mt-16">
         <h1 className="heading-hero text-white">
