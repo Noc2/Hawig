@@ -15,30 +15,30 @@ export const ORB_COLORS = [
 export const THESIS_ITEMS = [
   {
     number: "01",
-    title: "Infrastructure & Protocols",
+    title: "Web3 Composability",
     description:
-      "Backing the foundational layers that power the decentralized web \u2014 from consensus mechanisms to cross-chain interoperability.",
+      "Permissionless protocols and open smart contracts create a composable foundation where anyone can build on top of existing infrastructure \u2014 no gatekeepers, no vendor lock-in.",
     color: COLORS.blue,
   },
   {
     number: "02",
-    title: "Decentralized Governance",
+    title: "AI-Powered Individual Empowerment",
     description:
-      "Supporting DAOs and governance frameworks that enable transparent, community-driven decision making at scale.",
+      "AI is removing the barriers of capital and engineering capacity. A single contributor with the right tools can now build what once required entire teams \u2014 shifting power from institutions to individuals.",
     color: COLORS.green,
   },
   {
     number: "03",
-    title: "Open Source Public Goods",
+    title: "Social Value as the New Currency",
     description:
-      "Contributing to open-source tools, libraries, and protocols that benefit the entire ecosystem.",
+      "From memecoins to social tokens to meme stocks, markets increasingly price attention, community, and cultural relevance. Social value is becoming a fundamental economic force.",
     color: COLORS.pink,
   },
   {
     number: "04",
-    title: "AI \u00d7 Crypto",
+    title: "The Convergence",
     description:
-      "Exploring the convergence of artificial intelligence and blockchain \u2014 decentralized compute, verifiable inference, and autonomous agents.",
+      "The most transformative projects will sit at the intersection of all three \u2014 composable Web3 infrastructure, AI-augmented development, and community-driven value. This is where we contribute.",
     color: COLORS.yellow,
   },
 ];
