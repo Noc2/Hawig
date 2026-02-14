@@ -22,7 +22,7 @@ export const THESIS_ITEMS = [
   },
   {
     number: "02",
-    title: "AI-Powered Individual Empowerment",
+    title: "AI as the Great Equalizer",
     description:
       "AI is removing the barriers of capital and engineering capacity. A single contributor with the right tools can now build what once required entire teams \u2014 shifting power from institutions to individuals.",
     color: COLORS.green,
