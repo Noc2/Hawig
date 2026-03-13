@@ -42,10 +42,10 @@ export default function LegalPage() {
             <p>
               <strong className="text-white/90">Email:</strong>{" "}
               <a
-                href="mailto:info@hawig.xyz"
+                href="mailto:hawigxyz@proton.me"
                 className="text-brand-blue hover:text-white transition-colors"
               >
-                info@hawig.xyz
+                hawigxyz@proton.me
               </a>
             </p>
           </div>
@@ -89,7 +89,7 @@ export default function LegalPage() {
               Hawig Ventures UG (haftungsbeschr&auml;nkt)<br />
               Herzogin-Juliana-Stra&szlig;e 7<br />
               55469 Simmern, Germany<br />
-              Email: info@hawig.xyz
+              Email: hawigxyz@proton.me
             </p>
 
             <h3 className="text-white/90 font-semibold mt-6">
@@ -127,7 +127,7 @@ export default function LegalPage() {
               data. Since this website does not collect personal data beyond
               what is technically necessary for hosting, these rights are
               generally not applicable. If you have questions, please contact us
-              at info@hawig.xyz.
+              at hawigxyz@proton.me.
             </p>
 
             <h3 className="text-white/90 font-semibold mt-6">
