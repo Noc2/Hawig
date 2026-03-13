@@ -51,3 +51,49 @@ body {
   font-size: clamp(1.125rem, 1.5vw, 1.5rem);
   line-height: 1.6;
 }
+
+.hero-section {
+  min-height: 100svh;
+  padding-top: clamp(4rem, 8vh, 6rem);
+  padding-bottom: clamp(4rem, 7vh, 6rem);
+}
+
+.hero-copy {
+  margin-top: clamp(-1.5rem, -2vw, -0.75rem);
+}
+
+.orb-animation-shell {
+  max-width: 1100px;
+}
+
+@media (min-width: 768px) and (min-height: 900px) {
+  .hero-section {
+    margin-top: -6rem;
+    padding-top: 2rem;
+  }
+
+  .hero-copy {
+    margin-top: -4rem;
+  }
+}
+
+@media (max-height: 899px) {
+  .orb-animation-shell {
+    max-width: min(920px, 92vh);
+  }
+}
+
+@media (max-height: 820px) {
+  .hero-section {
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+  }
+
+  .hero-copy {
+    margin-top: -1rem;
+  }
+
+  .orb-animation-shell {
+    max-width: min(780px, 88vh);
+  }
+}

@@ -121,7 +121,7 @@ export default function OrbAnimation() {
   const ellipses = Array.from({ length: ELLIPSE_COUNT });
 
   return (
-    <div ref={containerRef} className="w-full max-w-[1100px] mx-auto">
+    <div ref={containerRef} className="orb-animation-shell w-full mx-auto">
       <svg
         id="mainSVG"
         xmlns="http://www.w3.org/2000/svg"

@@ -4,9 +4,9 @@ import OrbAnimation from "./OrbAnimation";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col items-center justify-center px-6 relative -mt-16 md:-mt-24">
+    <section className="hero-section min-h-screen flex flex-col items-center justify-center px-6 relative">
       <OrbAnimation />
-      <div className="text-center -mt-8 md:-mt-16">
+      <div className="hero-copy text-center">
         <h1 className="heading-hero text-white">
           HAWIG{" "}
           <span className="text-gradient">VENTURES</span>
