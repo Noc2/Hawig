@@ -29,16 +29,16 @@ export const THESIS_ITEMS = [
   },
   {
     number: "03",
-    title: "Social Value as the New Currency",
+    title: "The Human Layer",
     description:
-      "From memecoins to social tokens to meme stocks, markets increasingly price attention, community, and cultural relevance. Social value is becoming a fundamental economic force.",
+      "AI increases individual capability, but humans still need agency, trust, and ownership. Web3 gives people the infrastructure to coordinate, prove value, and stay in control of what they build.",
     color: COLORS.pink,
   },
   {
     number: "04",
     title: "The Convergence",
     description:
-      "The most transformative projects will sit at the intersection of all three \u2014 composable Web3 infrastructure, AI-augmented development, and community-driven value. This is where we contribute.",
+      "The next generation of projects will emerge where humans, AI, and Web3 meet: humans providing intent and creativity, AI expanding what is possible, and Web3 creating the ownership and coordination layer between them.",
     color: COLORS.yellow,
   },
 ];
