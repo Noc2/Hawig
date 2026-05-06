@@ -8,14 +8,14 @@ export const metadata: Metadata = {
     "Hawig Ventures invests in and contributes to Web3 projects building the decentralized future.",
   openGraph: {
     title: "Hawig Ventures",
-    description: "Where AI Meets Web3",
+    description: "Where Web3 Connects Humans and AI",
     siteName: "Hawig Ventures",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title: "Hawig Ventures",
-    description: "Where AI Meets Web3",
+    description: "Where Web3 Connects Humans and AI",
   },
 };
 
