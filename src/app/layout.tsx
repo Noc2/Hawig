@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { spaceGrotesk, inter } from "@/lib/fonts";
 import "./globals.css";
 
@@ -27,6 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${spaceGrotesk.variable} ${inter.variable}`}>
       <body className="antialiased">{children}</body>
+      <Script src="https://scripts.simpleanalyticscdn.com/latest.js" />
     </html>
   );
 }
